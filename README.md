@@ -1,6 +1,6 @@
 # Hello 🙋🏾‍♀️, I'm Esther Mureithi
 
-### A passionate developer & data scientist who builds frontend data visualisations and AI prototypes to analyse and communicate actionable insights effectively.
+#### A passionate developer & data scientist who builds frontend data visualisations and AI prototypes to analyse and communicate actionable insights effectively.
 
 - 🚧 Currently working at **Dalberg Data Insights**  
 - 👩🏾‍💻 Part-time student — **MSc in Data Science & Analytics**  
